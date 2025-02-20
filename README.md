@@ -70,7 +70,7 @@ A componentização das paginas podem ser feitas para reutilização em futuras 
 ## Como Rodar o Projeto
 1. Clone este repositório:
 ```bash
-git clone https://github.com/LucasBarragana/github-explorer.git
+git clone https://github.com/LucasBarragana/Search_GitHub.git
 ```
 
 2. Acesse a pasta do projeto:
